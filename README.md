@@ -26,3 +26,5 @@ Converting a number to a base36 string
 	// => shrti
 	console.log(shrti.decode('shrti'));
 	// => 57101310
+	console.log(shrti.encode(9007199254740992));
+	// => oj61tfg87c6
