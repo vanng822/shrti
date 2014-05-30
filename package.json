@@ -1,6 +1,6 @@
 {
 	"name": "shrti",
-	"description": "Simple way to convert serial number to base36 for using in url, reference such as booking or order",
+	"description": "Simple way to convert serial number to base36 string",
 	"keywords": ["base36"],
 	"author": "Nguyen Van Nhu",
 	"contributors": [],
@@ -15,7 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/vanng822/shrti/issues"
 	},
-	"script": {
+	"scripts": {
 		"test": "./node_modules/mocha/bin/mocha"
 	},
 	"licenses": [
