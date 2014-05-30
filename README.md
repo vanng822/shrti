@@ -2,7 +2,7 @@ shrti
 =====
 Converting a number to a base36 string
 
-== Example ==
+## Example
 	var shrti = require('shrti');
 	// nodejs bin/mapping.js
 	var mapping = [ '3foayirxqw6dc4tz7109uknepb8mhl2j5svg',
