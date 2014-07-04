@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var base36String = '0123456789abcdefghijklmnopqrstuvwxyz';
 var output = [];
